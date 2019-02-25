@@ -37,10 +37,20 @@ _或者用下划线代替也行_
 
 表格有点麻烦，干脆做成图片形式上传算了
 
-#include <bits/stdc++.h>
-using namespace std;
+    #include <bits/stdc++.h>
+    using namespace std;
 
-int main ( ) {
-    printf("hello world!");
-    return 0;
-}
+    int main ( ) {
+        printf("hello world!");
+        printf("粘入代码要选中所有文字然后直接按Tab");
+        return 0;
+    }
+
+
+```
+#include <bits/stdc++.h>
+```
+
+这样加脚注[^1]
+
+[^1]:这里是脚注说明文字
